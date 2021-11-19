@@ -1439,3 +1439,21 @@ deserializing user:
 user disconnected
 deserializing user:
 user disconnected
+connection started
+the nickname array contains
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+user disconnected
