@@ -1,0 +1,20 @@
+
+extends layout
+block other
+  p
+block content
+  div.container
+    div.signin
+        h1 Sign in to our Passport app
+          div.account-wall
+            img(class='profile-img', src='bitfox.png')
+            form(class='form-signin', action='/login', method='POST')
+              input(type='text', name='username' class='form-control', placeholder='Username',required, autofocus)
+              input(type='password', name='password' class='form-control', placeholder='Password', required)
+              button(class='btn btn-lg btn-primary btn-block', type='submit') Sign in
+              span.clearfix
+          a(href='/signup', class='text-center new-account') Create an account
+          #message
+          if message
+            h1 #{message}
+          a(href="/auth/facebook") Log In with Facebook

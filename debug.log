@@ -1,0 +1,1441 @@
+connection started
+the nickname array contains
+connection started
+the nickname array contains
+Example app listening on port 30134!
+Mongoose default connection error: MongoParseError: Invalid connection string "djbrenne:bren23@localhost:23898/admin"
+connection started
+the nickname array contains
+Example app listening on port 30134!
+Mongoose default connection error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:23898
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+connection started
+the nickname array contains
+connection started
+the nickname array contains
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+User Not Found with username tom@gmail.com
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+deserializing user:
+deserializing user:
+deserializing user:
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+User Not Found with username dave@gmail.com
+serializing user: 
+{
+  _id: new ObjectId("619558c603ed89b3e655db8f"),
+  username: 'steve',
+  password: '$2a$10$BKwamW1B2BH9iOUb5kyNv.8rQgdr/3pjKS6hxDILNJOdJ9YNxaZIW',
+  email: 'steve@gmail.com',
+  firstName: 'steve',
+  lastName: 'between',
+  __v: 0
+}
+deserializing user:
+deserializing user:
+deserializing user:
+deserializing user:
+User Not Found with username tom@gmail.com
+deserializing user:
+deserializing user:
+deserializing user:
+connection started
+the nickname array contains
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+User Not Found with username tom@gmail.com
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+deserializing user:
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+deserializing user:
+connection started
+the nickname array contains
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+deserializing user:
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+deserializing user:
+deserializing user:
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+deserializing user:
+deserializing user:
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+deserializing user:
+deserializing user:
+deserializing user:
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+deserializing user:
+deserializing user:
+deserializing user:
+connection started
+the nickname array contains
+Example app listening on port 30134!
+successfully opened db
+connection started
+the nickname array contains
+connection started
+the nickname array contains
+connection started
+the nickname array contains
+Example app listening on port 3001!
+successfully opened db
+connection started
+the nickname array contains
+connection started
+the nickname array contains
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+deserializing user:
+deserializing user:
+deserializing user:
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+message: [object Object]
+message: [object Object]
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: asdf
+message: asdf
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: asdf
+message: asdf
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+message: asdf
+message: asdfss
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: asdf
+message: asdfadf
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: asdf
+message: asdfsdf
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: adsf
+message: adsffda
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: asdf
+message: asdffdfd
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+message: asdf
+message: asdfdfdfd
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: adf
+message: adfadf
+message: adfadfsdf
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: aaaa
+message: aaaasss
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: asdf
+message: asdffff
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: asdf
+message: dfde
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: asdf
+message: df
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: asdf
+message: df
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: asdf
+message: adf
+message: dfdf
+message: adsf
+message: yyyyyyy
+user disconnected
+message: asd
+message: fds
+user disconnected
+message: asdf
+message: adf
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: adsf
+message: dfddf
+user disconnected
+message: adsf
+message: dfdfd
+message: adfa
+message: rrrrrrr
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+message: asdf
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619557a74dfd46ee36bbf44a"),
+  username: 'tom',
+  password: '$2a$10$jFY0ICs/pTtmOZZXrOUqPei0W.3/Sy2f8PECgLT34CudZt0rMY5HW',
+  email: 'tom@gmail.com',
+  firstName: 'tom',
+  lastName: 'last',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+deserializing user:
+user disconnected
+deserializing user:
+deserializing user:
+deserializing user:
+deserializing user:
+deserializing user:
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+Invalid Password
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+Invalid Password
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+message: adf
+message: dsfdd
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+message: adsf
+message: asdf
+deserializing user:
+user disconnected
+message: adsf
+message: adf
+message: adsf
+deserializing user:
+user disconnected
+message: asdf
+message: adf
+message: adsf
+message: adf
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+message: adf
+message: adf
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected
+message: august
+message: tomorrow
+message: asdf
+message: adsf
+deserializing user:
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+user disconnected
+connection started
+the nickname array contains
+successfully opened db
+user disconnected
+serializing user: 
+{
+  _id: new ObjectId("619558511b67fc84d3676c82"),
+  username: 'dave',
+  password: '$2a$10$83CHNW9TAF1wHQCi3n6WwuoTeXQf0FhigmNnXCNXpSCNVqaeBNY0.',
+  email: 'dave@gmail.com',
+  firstName: 'dave ',
+  lastName: 'first',
+  __v: 0
+}
+deserializing user:
+user disconnected
+message: asdf
+message: dfdf
+deserializing user:
+user disconnected
+deserializing user:
+user disconnected

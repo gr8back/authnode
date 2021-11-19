@@ -1,0 +1,71 @@
+doctype html
+html
+    head
+        title= title
+        link(rel='stylesheet', href='App.css')
+        script(src="https://cdn.socket.io/socket.io-1.4.5.js")
+        style(type='text/css').
+            #wrapper {
+                float: right;
+                background-color: lightyellow;
+            }
+            #messages {
+                font-size: 12px;
+            }
+        script.
+            var socket = io();
+
+            var handlechat = function () {
+            var msgvalue = document.getElementById("m").value;
+            console.log("msg value " + msgvalue)
+            socket.emit('chat message', msgvalue);
+            return false;
+            };
+
+            socket.on('welcome', function (msg) {
+            var mymessages = document.getElementById("messages");
+            mymessages.append(JSON.stringify(msg.message));
+            });
+
+            socket.on('chat message', function (msg) {
+            var mymessages = document.getElementById("messages");
+            document.getElementById('m').value = "";
+            var mymsgstring = JSON.stringify(msg.data)
+            var li = document.createElement("li");
+            li.appendChild(document.createTextNode(mymsgstring))
+            mymessages.appendChild(li);
+            });
+
+        .script
+            body
+                div#myuserdiv
+                    div#myuserinfo
+                        if user
+                            span User logged in as
+                            if user
+                                span  #{user.username}
+                                span#userpass
+                                a(href='/signout') &nbsp; Signout
+                        else
+                            span not signed in
+                div#wrapper
+                    div#chattagwrapper
+
+                        div#slide
+                            div#chatas Chatting as &nbsp;
+                                if user
+                                    span #{user.username}
+                                span#chatname
+                            div#contentwrap
+                                h3 Chat Here
+                                div#messageform
+                                    input#m(type='text', name='chatmessage',  placeholder='Chat Here')
+                                    button(type="submit" onclick="handlechat()" ) Send msg
+
+                            div#mymessagebox
+                                ul#messages
+                                    li Ready to Chat!
+
+
+
+block content

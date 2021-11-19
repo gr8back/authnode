@@ -1,0 +1,28 @@
+extends layout
+
+block content
+    div.container
+
+        script(src='https://maps.googleapis.com/maps/api/js?key=' + mapskey + '&callback=initMap' async defer)
+        script(src="https://code.jquery.com/jquery-1.11.1.min.js")
+        script(type='text/javascript').
+            function initMap() {
+                const uluru = {lat: 40.78, lng: -73.97};
+                const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 8,
+                center: uluru})}
+        .script
+        style(type='text/css').
+            #map {
+            height: 800px;
+            /* The height is 400 pixels */
+            width: 100%;
+            /* The width is the width of the web page */
+            }
+
+        #map
+        div#wrapper
+            div#chattagwrapper
+
+
+

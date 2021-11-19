@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+
+#wrapper {
+  position: absolute;
+  right: 0px;
+}
+
+
+.user-details {
+  list-style-type: none;
+  color: deeppink;
+}
+
+#map {
+    padding: 48px;
+    margin: 6px;
+    border: 10px solid black;
+}
+
+#wrapper {
+  margin: 25px;
+}
+
+body {
+  padding: 25px;
+
+}
+
+.profile-img {
+   border-radius: 50%;
+  width: 50%;
+
+}
+
+.container {
+    display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.signin {
+  grid-column: 2/3;
+    text-align: center;
+}
