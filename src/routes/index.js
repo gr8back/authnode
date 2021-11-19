@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-require('dotenv').config()
+require('dotenv').config({path:__dirname+'/./../../.env'})
 // var passport = require('passport')
 // 	    , OAuthStrategy = require('passport-oauth').OAuthStrategy;
 
@@ -8,7 +8,6 @@ var fs = require("fs");
 var log = function(msg) {
     fs.appendFileSync('/home/djbrenne/webapps/authnode/debug.log', msg + '\n');
 };
-
 
 
 
